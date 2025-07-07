@@ -1,0 +1,42 @@
+C:\Users\anilt\OneDrive\Desktop\Chat_App_and_Server\Chat_App_and_Server\bin\Debug\net8.0-windows\Chat_App_and_Server.exe
+C:\Users\anilt\OneDrive\Desktop\Chat_App_and_Server\Chat_App_and_Server\bin\Debug\net8.0-windows\Chat_App_and_Server.deps.json
+C:\Users\anilt\OneDrive\Desktop\Chat_App_and_Server\Chat_App_and_Server\bin\Debug\net8.0-windows\Chat_App_and_Server.runtimeconfig.json
+C:\Users\anilt\OneDrive\Desktop\Chat_App_and_Server\Chat_App_and_Server\bin\Debug\net8.0-windows\Chat_App_and_Server.dll
+C:\Users\anilt\OneDrive\Desktop\Chat_App_and_Server\Chat_App_and_Server\bin\Debug\net8.0-windows\Chat_App_and_Server.pdb
+C:\Users\anilt\OneDrive\Desktop\Chat_App_and_Server\Chat_App_and_Server\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\anilt\OneDrive\Desktop\Chat_App_and_Server\Chat_App_and_Server\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\anilt\OneDrive\Desktop\Chat_App_and_Server\Chat_App_and_Server\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\anilt\OneDrive\Desktop\Chat_App_and_Server\Chat_App_and_Server\obj\Debug\net8.0-windows\Chat_App_and_Server_MarkupCompile.cache
+C:\Users\anilt\OneDrive\Desktop\Chat_App_and_Server\Chat_App_and_Server\obj\Debug\net8.0-windows\Chat_App_and_Server_MarkupCompile.lref
+C:\Users\anilt\OneDrive\Desktop\Chat_App_and_Server\Chat_App_and_Server\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\anilt\OneDrive\Desktop\Chat_App_and_Server\Chat_App_and_Server\obj\Debug\net8.0-windows\Chat_App_and_Server.g.resources
+C:\Users\anilt\OneDrive\Desktop\Chat_App_and_Server\Chat_App_and_Server\obj\Debug\net8.0-windows\Chat_App_and_Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anilt\OneDrive\Desktop\Chat_App_and_Server\Chat_App_and_Server\obj\Debug\net8.0-windows\Chat_App_and_Server.AssemblyInfoInputs.cache
+C:\Users\anilt\OneDrive\Desktop\Chat_App_and_Server\Chat_App_and_Server\obj\Debug\net8.0-windows\Chat_App_and_Server.AssemblyInfo.cs
+C:\Users\anilt\OneDrive\Desktop\Chat_App_and_Server\Chat_App_and_Server\obj\Debug\net8.0-windows\Chat_App_and_Server.csproj.CoreCompileInputs.cache
+C:\Users\anilt\OneDrive\Desktop\Chat_App_and_Server\Chat_App_and_Server\obj\Debug\net8.0-windows\Chat_App_and_Server.dll
+C:\Users\anilt\OneDrive\Desktop\Chat_App_and_Server\Chat_App_and_Server\obj\Debug\net8.0-windows\refint\Chat_App_and_Server.dll
+C:\Users\anilt\OneDrive\Desktop\Chat_App_and_Server\Chat_App_and_Server\obj\Debug\net8.0-windows\Chat_App_and_Server.pdb
+C:\Users\anilt\OneDrive\Desktop\Chat_App_and_Server\Chat_App_and_Server\obj\Debug\net8.0-windows\Chat_App_and_Server.genruntimeconfig.cache
+C:\Users\anilt\OneDrive\Desktop\Chat_App_and_Server\Chat_App_and_Server\obj\Debug\net8.0-windows\ref\Chat_App_and_Server.dll
+C:\Users\anilt\OneDrive\Desktop\Staj Projeleri\Chat_App_and_Server\Chat_App_and_Server\bin\Debug\net8.0-windows\Chat_App_and_Server.exe
+C:\Users\anilt\OneDrive\Desktop\Staj Projeleri\Chat_App_and_Server\Chat_App_and_Server\bin\Debug\net8.0-windows\Chat_App_and_Server.deps.json
+C:\Users\anilt\OneDrive\Desktop\Staj Projeleri\Chat_App_and_Server\Chat_App_and_Server\bin\Debug\net8.0-windows\Chat_App_and_Server.runtimeconfig.json
+C:\Users\anilt\OneDrive\Desktop\Staj Projeleri\Chat_App_and_Server\Chat_App_and_Server\bin\Debug\net8.0-windows\Chat_App_and_Server.dll
+C:\Users\anilt\OneDrive\Desktop\Staj Projeleri\Chat_App_and_Server\Chat_App_and_Server\bin\Debug\net8.0-windows\Chat_App_and_Server.pdb
+C:\Users\anilt\OneDrive\Desktop\Staj Projeleri\Chat_App_and_Server\Chat_App_and_Server\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\anilt\OneDrive\Desktop\Staj Projeleri\Chat_App_and_Server\Chat_App_and_Server\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\anilt\OneDrive\Desktop\Staj Projeleri\Chat_App_and_Server\Chat_App_and_Server\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\anilt\OneDrive\Desktop\Staj Projeleri\Chat_App_and_Server\Chat_App_and_Server\obj\Debug\net8.0-windows\Chat_App_and_Server_MarkupCompile.cache
+C:\Users\anilt\OneDrive\Desktop\Staj Projeleri\Chat_App_and_Server\Chat_App_and_Server\obj\Debug\net8.0-windows\Chat_App_and_Server_MarkupCompile.lref
+C:\Users\anilt\OneDrive\Desktop\Staj Projeleri\Chat_App_and_Server\Chat_App_and_Server\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\anilt\OneDrive\Desktop\Staj Projeleri\Chat_App_and_Server\Chat_App_and_Server\obj\Debug\net8.0-windows\Chat_App_and_Server.g.resources
+C:\Users\anilt\OneDrive\Desktop\Staj Projeleri\Chat_App_and_Server\Chat_App_and_Server\obj\Debug\net8.0-windows\Chat_App_and_Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anilt\OneDrive\Desktop\Staj Projeleri\Chat_App_and_Server\Chat_App_and_Server\obj\Debug\net8.0-windows\Chat_App_and_Server.AssemblyInfoInputs.cache
+C:\Users\anilt\OneDrive\Desktop\Staj Projeleri\Chat_App_and_Server\Chat_App_and_Server\obj\Debug\net8.0-windows\Chat_App_and_Server.AssemblyInfo.cs
+C:\Users\anilt\OneDrive\Desktop\Staj Projeleri\Chat_App_and_Server\Chat_App_and_Server\obj\Debug\net8.0-windows\Chat_App_and_Server.csproj.CoreCompileInputs.cache
+C:\Users\anilt\OneDrive\Desktop\Staj Projeleri\Chat_App_and_Server\Chat_App_and_Server\obj\Debug\net8.0-windows\Chat_App_and_Server.dll
+C:\Users\anilt\OneDrive\Desktop\Staj Projeleri\Chat_App_and_Server\Chat_App_and_Server\obj\Debug\net8.0-windows\refint\Chat_App_and_Server.dll
+C:\Users\anilt\OneDrive\Desktop\Staj Projeleri\Chat_App_and_Server\Chat_App_and_Server\obj\Debug\net8.0-windows\Chat_App_and_Server.pdb
+C:\Users\anilt\OneDrive\Desktop\Staj Projeleri\Chat_App_and_Server\Chat_App_and_Server\obj\Debug\net8.0-windows\Chat_App_and_Server.genruntimeconfig.cache
+C:\Users\anilt\OneDrive\Desktop\Staj Projeleri\Chat_App_and_Server\Chat_App_and_Server\obj\Debug\net8.0-windows\ref\Chat_App_and_Server.dll

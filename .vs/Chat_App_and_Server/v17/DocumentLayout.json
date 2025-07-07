@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anilt\\OneDrive\\Desktop\\Staj Projeleri\\Chat_App_and_Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{140DB915-FC6E-4ED5-8A4C-51B4CD60A541}|Chat_App_and_Server\\Chat_App_and_Server.csproj|c:\\users\\anilt\\onedrive\\desktop\\staj projeleri\\chat_app_and_server\\chat_app_and_server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140DB915-FC6E-4ED5-8A4C-51B4CD60A541}|Chat_App_and_Server\\Chat_App_and_Server.csproj|solutionrelative:chat_app_and_server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140DB915-FC6E-4ED5-8A4C-51B4CD60A541}|Chat_App_and_Server\\Chat_App_and_Server.csproj|C:\\Users\\anilt\\OneDrive\\Desktop\\Staj Projeleri\\Chat_App_and_Server\\chat_app_and_server\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140DB915-FC6E-4ED5-8A4C-51B4CD60A541}|Chat_App_and_Server\\Chat_App_and_Server.csproj|solutionrelative:chat_app_and_server\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140DB915-FC6E-4ED5-8A4C-51B4CD60A541}|Chat_App_and_Server\\Chat_App_and_Server.csproj|C:\\Users\\anilt\\OneDrive\\Desktop\\Staj Projeleri\\Chat_App_and_Server\\chat_app_and_server\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{140DB915-FC6E-4ED5-8A4C-51B4CD60A541}|Chat_App_and_Server\\Chat_App_and_Server.csproj|solutionrelative:chat_app_and_server\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140DB915-FC6E-4ED5-8A4C-51B4CD60A541}|Chat_App_and_Server\\Chat_App_and_Server.csproj|C:\\Users\\anilt\\OneDrive\\Desktop\\Staj Projeleri\\Chat_App_and_Server\\chat_app_and_server\\booleantovisibility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140DB915-FC6E-4ED5-8A4C-51B4CD60A541}|Chat_App_and_Server\\Chat_App_and_Server.csproj|solutionrelative:chat_app_and_server\\booleantovisibility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140DB915-FC6E-4ED5-8A4C-51B4CD60A541}|Chat_App_and_Server\\Chat_App_and_Server.csproj|C:\\Users\\anilt\\OneDrive\\Desktop\\Staj Projeleri\\Chat_App_and_Server\\chat_app_and_server\\connectionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140DB915-FC6E-4ED5-8A4C-51B4CD60A541}|Chat_App_and_Server\\Chat_App_and_Server.csproj|solutionrelative:chat_app_and_server\\connectionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\anilt\\OneDrive\\Desktop\\Staj Projeleri\\Chat_App_and_Server\\Chat_App_and_Server\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Chat_App_and_Server\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\anilt\\OneDrive\\Desktop\\Staj Projeleri\\Chat_App_and_Server\\Chat_App_and_Server\\MainWindow.xaml",
+              "RelativeToolTip": "Chat_App_and_Server\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-26T09:49:59.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\anilt\\OneDrive\\Desktop\\Staj Projeleri\\Chat_App_and_Server\\Chat_App_and_Server\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Chat_App_and_Server\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\anilt\\OneDrive\\Desktop\\Staj Projeleri\\Chat_App_and_Server\\Chat_App_and_Server\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Chat_App_and_Server\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:49:56.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\anilt\\OneDrive\\Desktop\\Staj Projeleri\\Chat_App_and_Server\\Chat_App_and_Server\\Server.cs",
+              "RelativeDocumentMoniker": "Chat_App_and_Server\\Server.cs",
+              "ToolTip": "C:\\Users\\anilt\\OneDrive\\Desktop\\Staj Projeleri\\Chat_App_and_Server\\Chat_App_and_Server\\Server.cs",
+              "RelativeToolTip": "Chat_App_and_Server\\Server.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAswIEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:52:28.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BooleanToVisibility.cs",
+              "DocumentMoniker": "C:\\Users\\anilt\\OneDrive\\Desktop\\Staj Projeleri\\Chat_App_and_Server\\Chat_App_and_Server\\BooleanToVisibility.cs",
+              "RelativeDocumentMoniker": "Chat_App_and_Server\\BooleanToVisibility.cs",
+              "ToolTip": "C:\\Users\\anilt\\OneDrive\\Desktop\\Staj Projeleri\\Chat_App_and_Server\\Chat_App_and_Server\\BooleanToVisibility.cs",
+              "RelativeToolTip": "Chat_App_and_Server\\BooleanToVisibility.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:54:11.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConnectionModel.cs",
+              "DocumentMoniker": "C:\\Users\\anilt\\OneDrive\\Desktop\\Staj Projeleri\\Chat_App_and_Server\\Chat_App_and_Server\\ConnectionModel.cs",
+              "RelativeDocumentMoniker": "Chat_App_and_Server\\ConnectionModel.cs",
+              "ToolTip": "C:\\Users\\anilt\\OneDrive\\Desktop\\Staj Projeleri\\Chat_App_and_Server\\Chat_App_and_Server\\ConnectionModel.cs",
+              "RelativeToolTip": "Chat_App_and_Server\\ConnectionModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:53:18.942Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
